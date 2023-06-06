@@ -1,0 +1,10 @@
+.design {
+    font-size: 2rem;
+    color: chartreuse;
+    /* border: 1px solid blue; */
+    display: inline-block;
+    background-color: indigo;
+    padding: 5px;
+    /* margin: 30px; */
+
+}
